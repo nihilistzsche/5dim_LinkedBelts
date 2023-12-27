@@ -1,0 +1,13 @@
+{
+  "name": "5dim_LinkedBelts",
+  "version": "0.0.1",
+  
+  "title": "5dim_LinkedBelts",
+  "description": "Adds linked belts for 5dim_transport",
+  
+  "author": "nihilistzsche",
+  "license": "GPL3",
+  
+  "dependencies": ["base >= 1.1.6", "LinkedBelts", "? 5dim_transport"],
+  "factorio_version": "1.1"
+}
